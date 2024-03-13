@@ -1,7 +1,7 @@
 
 
 # Covid 19 Data Exploration Code: 
-[COVID Portfolio Project.sql] (https://github.com/bharatperry/SQL_SKILL_DATA-ANALYSIS/blob/fe64caf1c6c611f7349300d735927a52e14d8ed8/COVID%20Portfolio%20Project.sql)
+[COVID Portfolio Project.sql](https://github.com/bharatperry/SQL_SKILL_DATA-ANALYSIS/blob/fe64caf1c6c611f7349300d735927a52e14d8ed8/COVID%20Portfolio%20Project.sql)
 
 
 
